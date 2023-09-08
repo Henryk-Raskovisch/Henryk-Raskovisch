@@ -4,12 +4,12 @@
 - 🌱 I’m currently learning Python
 - 😄 Pronouns: he/him
 
-![Henryk-Raskovisch's GitHub stats](https://github-readme-stats.vercel.app/api?username=Henryk-Raskovisch&show_icons=true&theme=radical)
+![Henryk-Raskovisch's GitHub stats](https://github-readme-stats.vercel.app/api?username=Henryk-Raskovisch&show_icons=true&theme=radical&hide_rank=true)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Henryk-Raskovisch&theme=radical)](https://github.com//github-readme-stats)
-<div style="display: inline_block"><br>
- <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+<div style="display: inline_block"><br>  <img align="center" alt="Rafa-Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
  </div>
-  
+ 
   ##
 
   <div> 
