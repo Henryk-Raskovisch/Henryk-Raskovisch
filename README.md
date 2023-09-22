@@ -1,6 +1,6 @@
 ## Hi! I am Henryk Raskovisch
 
-- 🔭 I’m currently developing my programming and data skills
+- 🔭 I’m developing my programming and data skills
 - 🌱 I’m currently learning Python
 - 😄 Pronouns: he/him
 
