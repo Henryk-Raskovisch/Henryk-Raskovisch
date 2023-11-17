@@ -1,7 +1,7 @@
 ## Hi! I am Henryk Raskovisch
 
-- 🔭 I’m developing my programming and data skills
-- 🌱 I’m currently learning Python
+- 🔭 I’m developing my programming skills
+- 🌱 I’m currently learning Android Development
 - 😄 Pronouns: he/him
 
 ![Henryk-Raskovisch's GitHub stats](https://github-readme-stats.vercel.app/api?username=Henryk-Raskovisch&show_icons=true&theme=radical&hide_rank=true)
