@@ -1,12 +1,40 @@
-## Hi! I am Henryk Raskovisch
+## 👋 Hi, I'm Henryk Raskovisch
 
-- 🔭 I’m developing my programming skills
-- 🌱 I’m currently learning Android Development
-- 😄 Pronouns: he/him
+📊 Data Analyst | 📈 Business Intelligence
 
-![Henryk-Raskovisch's GitHub stats](https://github-readme-stats.vercel.app/api?username=Henryk-Raskovisch&show_icons=true&theme=radical&hide_rank=true)
+---
 
+### 🧠 About Me
 
+* 💼 Data Analyst with experience in **business, financial, accounting, and production data**
+* 📊 Strong background in **Power BI, data modeling, and building decision-driven dashboards**
+* 🧩 Skilled in transforming raw data into **actionable insights for companies**
+* 🔭 Currently expanding into **Data Engineering and scalable data solutions**
+  
+---
+
+### ⚙️ Tech Stack
+
+* 📊 Power BI (DAX, Power Query, Data Modeling)
+* 🐍 Python (Pandas, NumPy, Matplotlib)
+* 🗄️ SQL
+* 🔄 ETL Processes & Data Transformation
+* ☁️ Microsoft Fabric
+
+---
+
+### 📈 GitHub Stats
+
+![Henryk-Raskovisch's GitHub stats](https://github-readme-stats.vercel.app/api?username=Henryk-Raskovisch\&show_icons=true\&theme=radical\&hide_rank=true)
+
+---
+
+### 📫 Connect with me
+
+* 📧 Email: [raskovisch@hotmail.com](mailto:raskovisch@hotmail.com)
+* 💼 LinkedIn: https://www.linkedin.com/in/henrykraskovisch
+
+---
 
           
 </div>
