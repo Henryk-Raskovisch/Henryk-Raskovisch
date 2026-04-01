@@ -23,12 +23,6 @@
 
 ---
 
-### 📈 GitHub Stats
-
-![Henryk-Raskovisch's GitHub stats](https://github-readme-stats.vercel.app/api?username=Henryk-Raskovisch\&show_icons=true\&theme=radical\&hide_rank=true)
-
----
-
 ### 📫 Connect with me
 
 * 📧 Email: [raskovisch@hotmail.com](mailto:raskovisch@hotmail.com)
